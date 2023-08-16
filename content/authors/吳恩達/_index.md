@@ -1,12 +1,13 @@
 ---
+title: www
+role: Professor of Artificial Intelligence
+avatar_filename: 0c2e9e5677507e8ed2a6407f8900a4c2ec210c5d154af-vyjir0_fw480webp.webp
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: www
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
